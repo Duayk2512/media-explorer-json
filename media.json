@@ -1,0 +1,17 @@
+[
+  {
+    "type": "image",
+    "title": "Imagen de prueba",
+    "url": "https://picsum.photos/600/400"
+  },
+  {
+    "type": "audio",
+    "title": "Audio de prueba",
+    "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+  },
+  {
+    "type": "video",
+    "title": "Video de prueba",
+    "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+  }
+]
