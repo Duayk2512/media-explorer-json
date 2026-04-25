@@ -9,9 +9,10 @@
     "title": "Audio de prueba",
     "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
   },
-  {
-    "type": "video",
-    "title": "Video de prueba",
-    "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
-  }
+{
+  "type": "video",
+  "title": "Video de prueba",
+  "url": "https://storage.googleapis.com/exoplayer-test-media-0/BigBuckBunny_720p.mp4"
+}
+
 ]
